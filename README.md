@@ -1,2 +1,22 @@
-# secure-password-manager
-A secure desktop password manager built with Python, SQLite, and encryption for safely storing website credentials.
+# Secure Password Manager
+
+A simple intermediate Python project.
+
+## Features
+- Master password
+- SQLite storage
+- Encrypted passwords
+- Search
+- Delete
+
+## Install
+
+```bash
+pip install -r requirements.txt
+```
+
+Run:
+
+```bash
+python app.py
+```
